@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import axios from 'axios';
 import game from '../game.jpeg';
 // componets
@@ -13,6 +13,7 @@ function Home() {
     try {
       const response = await axios(url);
       const dataResponse = response.data;
+      console.log(dataResponse);
       if (dataResponse) {
         const dataOrdered = dataResponse.sort(
           (a, b) => b.projectID - a.projectID

@@ -110,7 +110,7 @@ const Sections = ({
               start: 'top top',
               toggleActions: 'play none none reverse',
               // stagger: 2,
-              scrub: true,
+              scrub: 0.5,
               animation: tl,
               pin: el,
               pinSpacing: true,
@@ -191,29 +191,11 @@ const Sections = ({
 
               toggleActions: 'play none none reverse',
               // stagger: 2,
-              scrub: true,
+              scrub: 0.5,
               animation: tl,
               pin: el,
               pinSpacing: true,
             });
-          },
-
-          // medium
-          '(min-width: 687px) and (max-width: 959px)': function () {
-            // The ScrollTriggers created inside these functions are segregated and get
-            // reverted/killed when the media query doesn't match anymore.
-          },
-
-          // small
-          '(max-width: 599px)': function () {
-            // The ScrollTriggers created inside these functions are segregated and get
-            // reverted/killed when the media query doesn't match anymore.
-          },
-
-          // all
-          all: function () {
-            // ScrollTriggers created here aren't associated with a particular media query,
-            // so they persist.
           },
         });
       });

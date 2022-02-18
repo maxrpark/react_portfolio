@@ -108,7 +108,6 @@ const Sections = ({
             ScrollTrigger.create({
               trigger: el,
               start: 'top top',
-              markers: true,
               toggleActions: 'play none none reverse',
               // stagger: 2,
               scrub: true,
@@ -189,7 +188,7 @@ const Sections = ({
             ScrollTrigger.create({
               trigger: el,
               start: 'top top',
-              markers: true,
+
               toggleActions: 'play none none reverse',
               // stagger: 2,
               scrub: true,

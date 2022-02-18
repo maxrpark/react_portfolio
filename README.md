@@ -1,71 +1,26 @@
-# Getting Started with Create React App
+<div align="center">
+<h2>React and GSAP Portfolio </h1>
+  
+![alt text](https://img.shields.io/badge/My%20first%20website-2.0.6-green)  ![alt text](https://img.shields.io/badge/Made%20by-Max-brightgreen) ![alt text](https://img.shields.io/badge/Made%20With-React.js-blue)
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React and GSAP Portfolio
 
-## Available Scripts
+This is a really simple project, since I am just starting to learn to react I wanted to build something simple, that is why I thought about building something using my API the one I create with airtable and serverless functions.
 
-In the project directory, you can run:
+I did not want to create a killer portfolio because to honest I am very happy with the one at already have, but since I wanted this one to be a little be special too, I added gsap scroll trigger and I create some parallax effect.
 
-### `npm start`
+There are things many things that could be improve in this project, like smooth scrolling for example. But I would not do any of that for the moment.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+All the content of this website is only on one page, even though I used a couple of components for practice.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Also, the nice thing about this project is that I used react-styled components.
 
-### `npm test`
+## What is it about
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A collection of all my projects with some parallax effect for the background.
 
-### `npm run build`
+## Visit the website
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react_portfolio
+You can take a look at the website by clicking the next link
+[React GSAP APP](https://react-gsap-portfolio.netlify.app/).
